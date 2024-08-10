@@ -9,9 +9,9 @@
 --->
 
 <h3 align="center">
-	<a href="https://md-shadab-azam-ansari.vercel.app/">Hi, I'm akash kumar!</a>
+	<a href="https://akash kuamr .vercel.app/">Hi, I'm akash kumar!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/sazamansari/sazamansari/"> </a>
+</h3> <a href="https://github.com/akash /akash/"> </a>
 <br/>
 
 <p align="center">
@@ -60,4 +60,4 @@
 </div>
 
 
-[![Shadab's GitHub stats](https://stats.quine.sh/Shadab/github)](https://quine.sh/profile/Shadab)
+[![akash GitHub stats](https://stats.quine.sh/akash/github)](https://quine.sh/profile/Shadab)
